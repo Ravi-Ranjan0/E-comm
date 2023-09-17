@@ -1,5 +1,5 @@
 {
-  "name": "shopping-app",
+  "name": "E-comm-app",
   "version": "1.0.0",
   "description": "This is the shopping app build with the help of Express MongoDB EJS-Templating Nodejs ",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node ./index.js",
     "dev": "nodemon ./index.js"
   },
-  "author": "GARY",
+  "author": "Ravi",
   "license": "MIT",
   "dependencies": {
     "connect-flash": "^0.1.1",
